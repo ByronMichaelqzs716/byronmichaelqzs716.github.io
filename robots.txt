@@ -1,0 +1,8 @@
+User-agent:*
+Allow:/
+
+Sitemap: https://byronmichaelqzs716.github.io/byronmichaelqzs716_github_io_zp528_11.txt
+Sitemap: https://byronmichaelqzs716.github.io/byronmichaelqzs716_github_io_zp528_17.txt
+Sitemap: https://byronmichaelqzs716.github.io/byronmichaelqzs716_github_io_zp528_22.txt
+Sitemap: https://byronmichaelqzs716.github.io/byronmichaelqzs716_github_io_zp528_28.txt
+Sitemap: https://byronmichaelqzs716.github.io/byronmichaelqzs716_github_io_zp528_8.txt
